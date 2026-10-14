@@ -1,7 +1,0 @@
----
-title: "08-Assignment"
-author: "Will Doyle"
-date: "2025-03-20"
-output: github_document
----
-
