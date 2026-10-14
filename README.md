@@ -14,6 +14,6 @@ and selected student materials released during the term.
 
 ## Instructor contact
 
-Conrad Borchers
-Assistant Professor
+Conrad Borchers<br>
+Assistant Professor<br>
 c.borchers@vanderbilt.edu
