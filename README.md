@@ -1,7 +1,7 @@
 # Machine Learning in Education
 
 Public course materials for Conrad Borchers's Spring 2027 course at Vanderbilt University.
-Course code: LPO 7240.
+Cross-listed as LPO 7240 and CS 5891. Class meets Tuesdays and Thursdays, 4:15–5:30 p.m.
 
 ## Course website
 
